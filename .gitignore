@@ -1,0 +1,15 @@
+*.iml
+.gradle
+client/local.properties
+client/.idea/caches
+client/.idea/libraries
+client/.idea/modules.xml
+client/.idea/workspace.xml
+client/.idea/navEditor.xml
+client/.idea/assetWizardSettings.xml
+client/build
+client/app/build
+webapi/bin
+webapi/obj
+.DS_Store
+build
